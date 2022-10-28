@@ -1,4 +1,5 @@
-[Deploy do projeto] (https://taiszimerer.github.io/projeto-intro-web/)
+[Deploy do projeto](https://taiszimerer.github.io/projeto-intro-web/)
+[Formulário de entrega](https://forms.gle/Q1mXTJFxwVUgUnrZA)
 
 # Projeto de Introdução ao desenvolvimento web
 
