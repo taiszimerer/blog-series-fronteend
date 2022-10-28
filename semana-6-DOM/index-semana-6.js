@@ -38,7 +38,7 @@ function relatorioDom (series){
 console.log(relatorioDom(series))
 
 
-function pesquisa() {
+function Pesquisa() {
     let input = document.getElementById('caixa-de-texto').value
     input=input.toLowerCase();
     let cards = document.getElementsByClassName('infoSeries')
@@ -52,5 +52,5 @@ function pesquisa() {
         cards[i].style.display="list-item";                 
     }
   } 
-  
 }
+
