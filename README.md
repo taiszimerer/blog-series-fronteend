@@ -8,4 +8,4 @@ Tecnologias utilizadas:
 - CSS 
 - JavaScript.
 
-[Deploy](
+[Deploy](https://taiszimerer.github.io/blog-series-fronteend/)
